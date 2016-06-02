@@ -20,6 +20,7 @@
     for (NSInteger i = 0; i < 10; i++) {
         NSLog(@"我是第%ld个",i+1);
     }
+    asdadasdasdasdadasdasdasdasd
 }
 
 - (void)didReceiveMemoryWarning {
